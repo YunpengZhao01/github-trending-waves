@@ -1,0 +1,177 @@
+# trendwaves default taxonomy
+# ---------------------------------------------------------------------------
+# Every repository is assigned exactly ONE primary (topic, subtopic) pair.
+# Rules are tried top to bottom and the first match wins, so put specific
+# subtopics before broad ones. Patterns are Python regular expressions,
+# matched case-insensitively against:
+#
+#     "<owner> <name> <description> <github topics>"
+#
+# (hyphens/underscores in names and topics are turned into spaces).
+# TOML literal strings ('...') keep backslashes as-is, so write \b, not \\b.
+#
+# Copy this file, edit it and pass it with `trendwaves run --taxonomy my.toml`.
+# ---------------------------------------------------------------------------
+
+# Hand-curated labels for repositories whose metadata is misleading or empty.
+# Keys are case-insensitive "owner/name"; values are "Topic / Subtopic".
+[overrides]
+"anomalyco/opencode"        = "AI & ML / AI coding tools"
+"sst/opencode"              = "AI & ML / AI coding tools"
+"openai/codex"              = "AI & ML / AI coding tools"
+"anthropics/claude-code"    = "AI & ML / AI coding tools"
+"google-gemini/gemini-cli"  = "AI & ML / AI coding tools"
+"obra/superpowers"          = "AI & ML / Agent skills & prompts"
+"mattpocock/skills"         = "AI & ML / Agent skills & prompts"
+"anthropics/skills"         = "AI & ML / Agent skills & prompts"
+"astral-sh/uv"              = "Developer tools / Package & build tools"
+"nvm-sh/nvm"                = "Developer tools / Package & build tools"
+"comfyanonymous/comfyui"    = "AI & ML / Generative media"
+"comfy-org/comfyui"         = "AI & ML / Generative media"
+"jquery/jquery"             = "Web & apps / Frontend & UI"
+# repositories the GitHub search API no longer returns (renamed or removed)
+"block/goose"                          = "AI & ML / Agents & orchestration"
+"moltbot/moltbot"                      = "AI & ML / Agents & orchestration"
+"forrestchang/andrej-karpathy-skills"  = "AI & ML / Agent skills & prompts"
+"hmbown/deepseek-tui"                  = "AI & ML / AI coding tools"
+"badlogic/pi-mono"                     = "AI & ML / AI coding tools"
+"gitlawb/openclaude"                   = "AI & ML / AI coding tools"
+"awslabs/amazon-bedrock-agentcore-samples" = "AI & ML / Agents & orchestration"
+"dmtrkovalenko/fff.nvim"               = "Developer tools / CLI, editors & dev workflow"
+"chrislgarry/apollo-11"                = "Learning & resources / Science & research"
+
+# ---------------------------------------------------------------- AI & ML
+[[rule]]
+topic = "AI & ML"
+subtopic = "Agent skills & prompts"
+pattern = '\bskills?\b.*\b(agent|claude|codex|cursor|llm|ai)\b|\b(agent|claude|codex|cursor)\b.*\bskills?\b|prompt engineer|system prompts?|\bprompts?\b.*\b(llm|gpt|ai|claude)\b|context engineer|\bcursor ?rules\b|\bagents\.md\b'
+
+[[rule]]
+topic = "AI & ML"
+subtopic = "MCP & tool use"
+pattern = '\bmcp\b|model context protocol|\bmcp server|tool calling|function calling|computer use|browser use|browser automation'
+
+[[rule]]
+topic = "AI & ML"
+subtopic = "AI coding tools"
+pattern = 'coding agent|code agent|code assistant|ai cod|ai pair program|claude code|\bcodex\b|opencode|\bcursor\b|\baider\b|vibe ?cod|code generation|copilot|\bdevin\b|software engineering agent|\bswe\b|gemini cli|kilo ?code|\bcline\b|roo ?code'
+
+[[rule]]
+topic = "AI & ML"
+subtopic = "Agents & orchestration"
+pattern = '\bagents?\b|\bagentic\b|multi ?agent|autonomous|langgraph|crewai|autogen|pydantic ai|\bopenclaw\b|\bworkflow automation\b|\bn8n\b|\bai assistant\b|\bpersonal assistant\b|\bmemory\b.*\b(agent|llm|ai)\b'
+
+[[rule]]
+topic = "AI & ML"
+subtopic = "RAG & knowledge"
+pattern = '\brag\b|retrieval augmented|vector (search|database|db|store)|embeddings?|semantic search|knowledge (graph|base)|graphrag|document (parsing|understanding)|to markdown|markdown converter|\bocr\b|pdf (to|parser|extract)'
+
+[[rule]]
+topic = "AI & ML"
+subtopic = "Generative media"
+pattern = 'image generat|video generat|\bdiffusion\b|comfyui|stable diffusion|text to (image|video|speech)|\btts\b|speech synthesis|voice (clon|chang|agent)|speech to text|\basr\b|whisper|talking head|lip ?sync|\bflux\b|music generat|\bsora\b'
+
+[[rule]]
+topic = "AI & ML"
+subtopic = "LLMs & inference"
+pattern = '\bllms?\b|large language model|language models?|\bgpt\b|chatgpt|\bopenai\b|\bclaude\b|\bgemini\b|\bdeepseek\b|\bqwen\b|\bllama\b|\bmistral\b|transformers?\b|\bvlm\b|multimodal|\blora\b|fine ?tun|inference|ollama|vllm|sglang|llama\.?cpp|quantiz|hugging ?face|model serving|\bchatbot\b|\bai\b gateway|openai compatible|jailbreak|\bgrok\b'
+
+[[rule]]
+topic = "AI & ML"
+subtopic = "ML research & training"
+pattern = 'machine learning|deep learning|neural network|reinforcement learning|\brl\b|model training|pretrain|pytorch|tensorflow|\bjax\b|\bmlops\b|computer vision|\byolo\b|object detection|segmentation|robot|time series forecast'
+
+# ------------------------------------------------------- Security & privacy
+[[rule]]
+topic = "Security & privacy"
+subtopic = "Offensive security"
+pattern = 'pentest|penetration test|exploit|vulnerabilit|bug bounty|red ?team|reverse engineer|malware|\bcve\b|hacking|\bosint\b|\bctf\b|fuzz|payload|recon'
+
+[[rule]]
+topic = "Security & privacy"
+subtopic = "Privacy & defensive security"
+pattern = 'security|firewall|antivirus|privacy|encrypt|authenticat|\boauth\b|password|zero trust|\bsiem\b|\bvpn\b|proxy|censorship|ad ?block|tracker block|anonym|\btor\b|e2ee|wireguard'
+
+# ------------------------------------------------------------- Developer tools (build)
+[[rule]]
+topic = "Developer tools"
+subtopic = "Package & build tools"
+pattern = 'package manager|version manager|build tool|bundler|compiler|\blinter\b|formatter|monorepo|\bnpm\b|\bpip\b|\bcargo\b|toolchain|runtime'
+
+# ------------------------------------------------------------- Web & apps
+[[rule]]
+topic = "Web & apps"
+subtopic = "Mobile & desktop apps"
+pattern = '\bios\b|android|swiftui|\bswift\b|\bmacos\b|\bwindows\b|electron|tauri|flutter|react native|desktop app|mobile app|\bkotlin\b|menu ?bar|\blinux desktop\b|\bapp store\b'
+
+[[rule]]
+topic = "Web & apps"
+subtopic = "Frontend & UI"
+pattern = 'frontend|front end|\breact\b|\bvue\b|svelte|solid ?js|\bsolid\b|next ?js|nuxt|tailwind|component|\bui\b|\bux\b|web design|\bcss\b|typescript|javascript|design system|landing page|dashboard|website builder|\bfigma\b|icons?\b'
+
+[[rule]]
+topic = "Web & apps"
+subtopic = "Backend & web platforms"
+pattern = 'backend|\bbaas\b|supabase|appwrite|firebase|\bcms\b|headless|web framework|\bapi\b server|\brest api\b|graphql|server ?less|\bauth\b server|e ?commerce|\bnocode\b|no code|low code|\bnocodb\b|\bnode\.?js\b|\bdeno\b|\bbun\b|\bdjango\b|\bfastapi\b|\brails\b|\blaravel\b|\bphp\b'
+
+# --------------------------------------------------------- Developer tools
+[[rule]]
+topic = "Developer tools"
+subtopic = "Infra, cloud & self-hosting"
+pattern = 'docker|kubernetes|\bk8s\b|container|cloud native|terraform|infrastructure|devops|observability|monitoring|self ?host|homelab|\bnas\b|deploy|\bpaas\b|reverse proxy|\bnginx\b|server management|\bci ?/? ?cd\b|serverless'
+
+[[rule]]
+topic = "Developer tools"
+subtopic = "Data & databases"
+pattern = 'database|postgres|sqlite|mysql|redis|clickhouse|\bsql\b|analytics|data engineer|data pipeline|dataframe|\betl\b|scrap|crawler|spreadsheet|data visuali|\bduckdb\b|\bkafka\b|search engine'
+
+[[rule]]
+topic = "Developer tools"
+subtopic = "CLI, editors & dev workflow"
+pattern = '\bcli\b|command line|terminal|\bshell\b|\bzsh\b|neovim|\bvim\b|\bemacs\b|editor|\bide\b|vscode|vs code|\bgit\b|github|debugg|\bsdk\b|developer tool|devtools?|test(ing)? framework|productivity|dotfiles|automation'
+
+# ---------------------------------------------------- Learning & resources
+[[rule]]
+topic = "Learning & resources"
+subtopic = "Courses, books & guides"
+pattern = 'awesome|curated list|tutorial|course|cookbook|book|roadmap|interview|learn|education|beginner|guide|cheat ?sheet|handbook|free .*resources|lessons?|study|notes'
+
+[[rule]]
+topic = "Learning & resources"
+subtopic = "Science & research"
+pattern = 'research|paper|science|physics|math|biology|chemistr|algorithm|quantum|bioinformatic|astronom|\bmedical\b|\bhealth\b'
+
+# -------------------------------------------------- Media & entertainment
+[[rule]]
+topic = "Media & entertainment"
+subtopic = "Games & emulation"
+pattern = '\bgames?\b|gaming|emulator|simulation|\bunity\b|godot|minecraft|retro|\bsteam\b|nintendo|\bmod\b|game engine'
+
+[[rule]]
+topic = "Media & entertainment"
+subtopic = "Media, music & creative"
+pattern = 'music|audio|video|image editor|photo|\b3d\b|blender|media player|media server|animation|streaming|youtube|spotify|podcast|\bflac\b|download(er)?|manga|anime|ebook|reader|drawing|subtitle'
+
+# ------------------------------------------------------ Finance & commerce
+[[rule]]
+topic = "Finance & commerce"
+subtopic = "Finance & trading"
+pattern = 'financ|trading|stock|invest|crypto|bitcoin|blockchain|ethereum|solana|web3|payment|\bquant\b|portfolio|accounting|budget|\bdefi\b'
+
+[[rule]]
+topic = "Developer tools"
+subtopic = "Systems, networking & hardware"
+pattern = 'network|protocol|\bquic\b|\bhttp\b|\btcp\b|\bp2p\b|peer to peer|file transfer|kernel|operating system|\bsystemd\b|\bc\+\+|\brust\b|\bzig\b|embedded|firmware|hardware|radar|\biot\b|zigbee|home assistant|smart home|\bgpu\b|\bcuda\b|\bbrowser\b|\bwasm\b|webassembly|library|framework'
+
+# ---------------------------------------------------------- Everyday tools
+[[rule]]
+topic = "Everyday tools"
+subtopic = "Productivity & communication"
+pattern = 'note|notion|obsidian|calendar|todo|task manag|email|\bmail\b|chat|messag|telegram|discord|wechat|slack|whatsapp|\brss\b|news|bookmark|knowledge management|\bpkm\b|\bmaps?\b|navigation|translat|clipboard|launcher|wallpaper|keyboard|flashcard|spaced repetition|emoji|\biptv\b|\btv\b'
+
+# --------------------------------------------- catch-all for generic AI apps
+# Kept last so that "AI-powered <something>" is first labelled by its <something>.
+[[rule]]
+topic = "AI & ML"
+subtopic = "Other AI apps"
+pattern = '\bai\b|artificial intelligence|\bgenai\b'

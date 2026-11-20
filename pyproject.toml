@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trendwaves"
+dynamic = ["version"]
+description = "Score the daily GitHub Trending top 10 and watch topics rise and fall in waves."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Yunpeng Zhao" }]
+keywords = ["github", "trending", "open-source", "data-visualization", "trend-analysis", "time-series"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Visualization",
+]
+dependencies = [
+  "pandas>=2.1",
+  "numpy>=1.24",
+  "matplotlib>=3.7",
+  "tomli>=2.0; python_version < '3.11'",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.4"]
+
+[project.scripts]
+trendwaves = "trendwaves.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/YunpengZhao01/github-trending-waves"
+Issues = "https://github.com/YunpengZhao01/github-trending-waves/issues"
+
+[tool.setuptools.dynamic]
+version = { attr = "trendwaves.__version__" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+trendwaves = ["default_taxonomy.toml"]
+
+[tool.ruff]
+line-length = 130
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["E731"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
