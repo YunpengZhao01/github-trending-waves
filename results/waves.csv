@@ -1,153 +1,155 @@
 level,category,start,peak,end,days,peak_points,peak_share,baseline_points,lift,wave_points,top_repositories,lead_repository
-topic,Media & entertainment,2026-01-01,2026-01-01,2026-01-06,6,10.0,0.1818,1.44,6.96,19.0,afkarxyz/SpotiFLAC (16); nukeop/nuclear (3),afkarxyz/SpotiFLAC
-topic,Web & apps,2026-01-02,2026-01-03,2026-01-11,10,11.67,0.2134,3.01,3.88,80.0,HQarroum/docker-android (28); nocodb/nocodb (17); microsoft/PowerToys (15),HQarroum/docker-android
-topic,Everyday tools,2026-01-04,2026-01-06,2026-01-09,6,4.5,0.0828,0.56,8.05,20.0,ourongxing/newsnow (20),ourongxing/newsnow
+topic,Media & entertainment,2026-01-01,2026-01-01,2026-01-06,6,10.0,0.1818,1.43,6.98,19.0,afkarxyz/SpotiFLAC (16); nukeop/nuclear (3),afkarxyz/SpotiFLAC
+topic,Web & apps,2026-01-02,2026-01-03,2026-01-11,10,11.67,0.2134,3.0,3.89,80.0,HQarroum/docker-android (28); nocodb/nocodb (17); microsoft/PowerToys (15),HQarroum/docker-android
+topic,Everyday tools,2026-01-04,2026-01-06,2026-01-09,6,4.5,0.0828,0.56,8.07,20.0,ourongxing/newsnow (20),ourongxing/newsnow
 topic,Developer tools,2026-01-08,2026-01-09,2026-01-19,12,12.29,0.2257,6.03,2.04,118.0,google/googletest (17); protocolbuffers/protobuf (12); DioxusLabs/dioxus (10),google/googletest
-topic,Learning & resources,2026-01-15,2026-01-16,2026-01-28,14,4.43,0.082,1.87,2.36,37.0,twitter/the-algorithm (26); microsoft/Data-Science-For-Beginners (7); Asabeneh/30-Days-Of-Python (4),twitter/the-algorithm
-topic,Web & apps,2026-01-23,2026-01-27,2026-01-29,7,8.29,0.1559,3.01,2.75,44.0,remotion-dev/remotion (44),remotion-dev/remotion
-topic,Security & privacy,2026-02-08,2026-02-11,2026-02-16,9,10.29,0.1885,1.57,6.54,63.0,KeygraphHQ/shannon (38); microsoft/litebox (15); TelegramMessenger/MTProxy (6),KeygraphHQ/shannon
+topic,Learning & resources,2026-01-15,2026-01-16,2026-01-28,14,4.43,0.082,1.87,2.37,37.0,twitter/the-algorithm (26); microsoft/Data-Science-For-Beginners (7); Asabeneh/30-Days-Of-Python (4),twitter/the-algorithm
+topic,Web & apps,2026-01-23,2026-01-27,2026-01-29,7,8.29,0.1559,3.0,2.76,44.0,remotion-dev/remotion (44),remotion-dev/remotion
+topic,Security & privacy,2026-02-08,2026-02-11,2026-02-16,9,10.29,0.1885,1.57,6.56,63.0,KeygraphHQ/shannon (38); microsoft/litebox (15); TelegramMessenger/MTProxy (6),KeygraphHQ/shannon
 topic,Developer tools,2026-02-15,2026-02-19,2026-03-06,20,14.57,0.2649,6.03,2.42,212.0,ruvnet/wifi-densepose (46); abhigyanpatwari/GitNexus (27); steipete/gogcli (23),ruvnet/wifi-densepose
-topic,Security & privacy,2026-03-06,2026-03-09,2026-03-12,7,6.71,0.1224,1.57,4.27,27.0,Ed1s0nZ/CyberStrikeAI (12); KeygraphHQ/shannon (8); aquasecurity/trivy (7),Ed1s0nZ/CyberStrikeAI
-topic,AI & ML,2026-03-08,2026-03-13,2026-03-17,10,51.43,0.9375,38.29,1.34,470.0,666ghj/MiroFish (60); msitarzewski/agency-agents (39); obra/superpowers (34),666ghj/MiroFish
-topic,Learning & resources,2026-03-18,2026-03-22,2026-03-28,11,4.71,0.0909,1.87,2.52,37.0,Crosstalk-Solutions/project-nomad (28); codecrafters-io/build-your-own-x (9),Crosstalk-Solutions/project-nomad
+topic,Security & privacy,2026-03-06,2026-03-09,2026-03-12,7,6.71,0.1224,1.57,4.28,27.0,Ed1s0nZ/CyberStrikeAI (12); KeygraphHQ/shannon (8); aquasecurity/trivy (7),Ed1s0nZ/CyberStrikeAI
+topic,AI & ML,2026-03-08,2026-03-13,2026-03-17,10,51.43,0.9375,38.32,1.34,470.0,666ghj/MiroFish (60); msitarzewski/agency-agents (39); obra/superpowers (34),666ghj/MiroFish
+topic,Learning & resources,2026-03-18,2026-03-22,2026-03-28,11,4.71,0.0909,1.87,2.53,37.0,Crosstalk-Solutions/project-nomad (28); codecrafters-io/build-your-own-x (9),Crosstalk-Solutions/project-nomad
 topic,Developer tools,2026-03-24,2026-03-24,2026-03-28,5,9.29,0.1791,6.03,1.54,28.0,FujiwaraChoki/MoneyPrinterV2 (18); ruvnet/RuView (10),FujiwaraChoki/MoneyPrinterV2
-topic,Media & entertainment,2026-03-29,2026-03-31,2026-04-03,6,5.29,0.0966,1.44,3.68,21.0,hacksider/Deep-Live-Cam (21),hacksider/Deep-Live-Cam
-topic,AI & ML,2026-04-13,2026-04-16,2026-04-20,8,49.0,0.8909,38.29,1.28,366.0,forrestchang/andrej-karpathy-skills (48); thedotmack/claude-mem (35); jamiepine/voicebox (22),forrestchang/andrej-karpathy-skills
+topic,Media & entertainment,2026-03-29,2026-03-31,2026-04-03,6,5.29,0.0966,1.43,3.69,21.0,hacksider/Deep-Live-Cam (21),hacksider/Deep-Live-Cam
+topic,AI & ML,2026-04-13,2026-04-16,2026-04-20,8,49.0,0.8909,38.32,1.28,366.0,forrestchang/andrej-karpathy-skills (48); thedotmack/claude-mem (35); jamiepine/voicebox (22),forrestchang/andrej-karpathy-skills
 topic,Developer tools,2026-04-22,2026-04-24,2026-04-27,6,12.57,0.2292,6.03,2.09,53.0,Fincept-Corporation/FinceptTerminal (19); ruvnet/RuView (17); abhigyanpatwari/GitNexus (7),Fincept-Corporation/FinceptTerminal
-topic,Security & privacy,2026-04-25,2026-04-30,2026-05-08,14,7.71,0.1403,1.57,4.91,82.0,soxoj/maigret (33); Z4nzu/hackingtool (25); HunxByts/GhostTrack (15),soxoj/maigret
-topic,Finance & commerce,2026-05-09,2026-05-11,2026-05-16,8,5.86,0.1065,0.84,6.97,34.0,anthropics/financial-services (29); shiyu-coder/Kronos (5),anthropics/financial-services
-topic,AI & ML,2026-05-20,2026-05-22,2026-05-27,8,46.14,0.8455,38.29,1.21,355.0,anthropics/claude-plugins-official (45); colbymchenry/codegraph (45); Lum1104/Understand-Anything (44),anthropics/claude-plugins-official
-topic,Learning & resources,2026-05-25,2026-05-27,2026-06-01,8,7.43,0.1351,1.87,3.97,40.0,rohitg00/ai-engineering-from-scratch (25); DigitalPlatDev/FreeDomain (8); galilai-group/stable-worldmodel (4),rohitg00/ai-engineering-from-scratch
-topic,Media & entertainment,2026-05-30,2026-06-02,2026-06-06,8,8.0,0.1455,1.44,5.57,36.0,harry0703/MoneyPrinterTurbo (36),harry0703/MoneyPrinterTurbo
-topic,Everyday tools,2026-06-14,2026-06-17,2026-06-22,9,9.0,0.1636,0.56,16.1,57.0,iptv-org/iptv (37); chatwoot/chatwoot (20),iptv-org/iptv
+topic,Security & privacy,2026-04-25,2026-04-30,2026-05-08,14,7.71,0.1403,1.57,4.92,82.0,soxoj/maigret (33); Z4nzu/hackingtool (25); HunxByts/GhostTrack (15),soxoj/maigret
+topic,Finance & commerce,2026-05-09,2026-05-11,2026-05-16,8,5.86,0.1065,0.84,6.99,34.0,anthropics/financial-services (29); shiyu-coder/Kronos (5),anthropics/financial-services
+topic,AI & ML,2026-05-20,2026-05-22,2026-05-27,8,46.14,0.8455,38.32,1.2,355.0,anthropics/claude-plugins-official (45); colbymchenry/codegraph (45); Lum1104/Understand-Anything (44),anthropics/claude-plugins-official
+topic,Learning & resources,2026-05-25,2026-05-27,2026-06-01,8,7.43,0.1351,1.87,3.98,40.0,rohitg00/ai-engineering-from-scratch (25); DigitalPlatDev/FreeDomain (8); galilai-group/stable-worldmodel (4),rohitg00/ai-engineering-from-scratch
+topic,Media & entertainment,2026-05-30,2026-06-02,2026-06-06,8,8.0,0.1455,1.43,5.58,36.0,harry0703/MoneyPrinterTurbo (36),harry0703/MoneyPrinterTurbo
+topic,Everyday tools,2026-06-14,2026-06-17,2026-06-22,9,9.0,0.1636,0.56,16.15,57.0,iptv-org/iptv (37); chatwoot/chatwoot (20),iptv-org/iptv
 topic,Developer tools,2026-06-15,2026-06-21,2026-06-29,15,17.43,0.3169,6.03,2.89,206.0,palmier-io/palmier-pro (41); meshery/meshery (23); ripienaar/free-for-dev (20),palmier-io/palmier-pro
-topic,Learning & resources,2026-06-17,2026-06-20,2026-06-22,6,5.71,0.1039,1.87,3.05,24.0,freeCodeCamp/freeCodeCamp (18); aishwaryanr/awesome-generative-ai-guide (6),freeCodeCamp/freeCodeCamp
-topic,Web & apps,2026-06-17,2026-07-01,2026-07-05,19,11.71,0.213,3.01,3.89,132.0,simplex-chat/simplex-chat (40); penpot/penpot (23); altic-dev/FluidVoice (17),simplex-chat/simplex-chat
-topic,Security & privacy,2026-07-02,2026-07-06,2026-07-09,8,8.86,0.161,1.57,5.63,41.0,usestrix/strix (37); logto-io/logto (3); Mebus/cupp (1),usestrix/strix
-topic,Media & entertainment,2026-07-03,2026-07-03,2026-07-07,5,3.43,0.0623,1.44,2.39,7.0,hasaneyldrm/exercises-dataset (7),hasaneyldrm/exercises-dataset
+topic,Learning & resources,2026-06-17,2026-06-20,2026-06-22,6,5.71,0.1039,1.87,3.06,24.0,freeCodeCamp/freeCodeCamp (18); aishwaryanr/awesome-generative-ai-guide (6),freeCodeCamp/freeCodeCamp
+topic,Web & apps,2026-06-17,2026-07-01,2026-07-05,19,11.71,0.213,3.0,3.91,132.0,simplex-chat/simplex-chat (40); penpot/penpot (23); altic-dev/FluidVoice (17),simplex-chat/simplex-chat
+topic,Security & privacy,2026-07-02,2026-07-06,2026-07-09,8,8.86,0.161,1.57,5.65,41.0,usestrix/strix (37); logto-io/logto (3); Mebus/cupp (1),usestrix/strix
+topic,Media & entertainment,2026-07-03,2026-07-03,2026-07-07,5,3.43,0.0623,1.43,2.39,7.0,hasaneyldrm/exercises-dataset (7),hasaneyldrm/exercises-dataset
 topic,Developer tools,2026-07-11,2026-07-17,2026-07-19,9,16.14,0.2935,6.03,2.68,125.0,OpenCut-app/OpenCut (35); apache/ossie (19); abseil/abseil-cpp (17),OpenCut-app/OpenCut
-topic,Learning & resources,2026-07-19,2026-07-24,2026-07-25,7,7.0,0.1273,1.87,3.74,31.0,rohitg00/ai-engineering-from-scratch (20); chrislgarry/Apollo-11 (10); codecrafters-io/build-your-own-x (1),rohitg00/ai-engineering-from-scratch
-topic,Web & apps,2026-07-24,2026-07-25,2026-07-28,5,6.57,0.1195,3.01,2.18,18.0,koala73/worldmonitor (18),koala73/worldmonitor
-topic,Learning & resources,2026-08-01,2026-08-06,2026-08-10,10,14.0,0.2545,1.87,7.48,92.0,microsoft/AI-For-Beginners (31); microsoft/generative-ai-for-beginners (18); paperswithbacktest/awesome-systematic-trading (16),microsoft/AI-For-Beginners
+topic,Learning & resources,2026-07-19,2026-07-24,2026-07-25,7,7.0,0.1273,1.87,3.75,31.0,rohitg00/ai-engineering-from-scratch (20); chrislgarry/Apollo-11 (10); codecrafters-io/build-your-own-x (1),rohitg00/ai-engineering-from-scratch
+topic,Web & apps,2026-07-24,2026-07-25,2026-07-28,5,6.57,0.1195,3.0,2.19,18.0,koala73/worldmonitor (18),koala73/worldmonitor
+topic,Learning & resources,2026-08-01,2026-08-06,2026-08-10,10,14.0,0.2545,1.87,7.5,92.0,microsoft/AI-For-Beginners (31); microsoft/generative-ai-for-beginners (18); paperswithbacktest/awesome-systematic-trading (16),microsoft/AI-For-Beginners
 topic,Security & privacy,2026-08-15,2026-08-18,2026-08-21,7,4.29,0.0792,1.57,2.73,25.0,megadose/holehe (10); usestrix/strix (9); smicallef/spiderfoot (6),megadose/holehe
-topic,Media & entertainment,2026-08-19,2026-08-22,2026-08-25,7,6.29,0.1161,1.44,4.37,34.0,harry0703/MoneyPrinterTurbo (31); agalwood/Motrix (3),harry0703/MoneyPrinterTurbo
-topic,Media & entertainment,2026-08-30,2026-08-30,2026-09-03,5,3.71,0.0675,1.44,2.58,9.0,bilawalsidhu/gods-eye-view (9),bilawalsidhu/gods-eye-view
-topic,Web & apps,2026-09-01,2026-09-02,2026-09-05,5,6.71,0.1221,3.01,2.23,21.0,iv-org/invidious (7); k1tbyte/Wand-Enhancer (7); majd/ipatool (6),iv-org/invidious
-topic,AI & ML,2026-09-07,2026-09-10,2026-09-11,5,45.57,0.8286,38.29,1.19,211.0,ayghri/i-have-adhd (30); cathrynlavery/diagram-design (25); affaan-m/ECC (22),ayghri/i-have-adhd
-topic,Media & entertainment,2026-09-12,2026-09-14,2026-09-19,8,6.86,0.1247,1.44,4.77,38.0,bilawalsidhu/gods-eye-view (27); Flowseal/zapret-discord-youtube (6); armory3d/armorpaint (5),bilawalsidhu/gods-eye-view
-topic,Finance & commerce,2026-09-22,2026-09-25,2026-09-29,8,7.57,0.1387,0.84,9.01,41.0,anthropics/financial-services (29); Open-Dev-Society/OpenStock (12),anthropics/financial-services
-topic,AI & ML,2026-10-02,2026-10-05,2026-10-07,6,45.71,0.8377,38.29,1.19,259.0,DietrichGebert/ponytail (34); pbakaus/impeccable (30); Panniantong/Agent-Reach (25),DietrichGebert/ponytail
-topic,Web & apps,2026-10-06,2026-10-11,2026-10-15,10,12.14,0.2214,3.01,4.04,87.0,boykopovar/AnyPS5 (58); tester-army/e2e (20); flutter/flutter (4),boykopovar/AnyPS5
-topic,Media & entertainment,2026-10-12,2026-10-14,2026-10-19,8,7.86,0.1451,1.44,5.47,42.0,bilawalsidhu/gods-eye-view (24); storytold/artcraft (18),bilawalsidhu/gods-eye-view
-topic,AI & ML,2026-10-18,2026-10-31,2026-11-06,20,53.0,0.9636,38.29,1.38,959.0,thedotmack/claude-mem (59); cloudflare/security-audit-skill (47); pbakaus/impeccable (47),thedotmack/claude-mem
-topic,Web & apps,2026-10-24,2026-10-24,2026-10-29,6,6.14,0.1129,3.01,2.04,19.0,Renhuai123/ziwei-doushu (10); php/php-src (9),Renhuai123/ziwei-doushu
-topic,Media & entertainment,2026-11-05,2026-11-05,2026-11-09,5,3.29,0.0597,1.44,2.29,9.0,floci-io/floci (7); harry0703/MoneyPrinterTurbo (2),floci-io/floci
-topic,AI & ML,2026-11-16,2026-11-21,2026-11-23,8,49.43,0.8987,38.29,1.29,393.0,elementalsouls/Claude-BugHunter (58); HKUDS/CLI-Anything (41); obra/superpowers (38),elementalsouls/Claude-BugHunter
-subtopic,"Media, music & creative",2026-01-01,2026-01-01,2026-01-06,6,10.0,0.1818,1.31,7.62,19.0,afkarxyz/SpotiFLAC (16); nukeop/nuclear (3),afkarxyz/SpotiFLAC
-subtopic,"Infra, cloud & self-hosting",2026-01-02,2026-01-06,2026-01-16,15,6.33,0.1166,1.64,3.86,65.0,usememos/memos (38); xpipe-io/xpipe (8); dev-sec/ansible-collection-hardening (8),usememos/memos
-subtopic,Mobile & desktop apps,2026-01-02,2026-01-03,2026-01-11,10,8.33,0.1524,1.47,5.67,52.0,HQarroum/docker-android (28); microsoft/PowerToys (15); organicmaps/organicmaps (7),HQarroum/docker-android
-subtopic,Productivity & communication,2026-01-04,2026-01-06,2026-01-09,6,4.5,0.0828,0.56,8.05,20.0,ourongxing/newsnow (20),ourongxing/newsnow
-subtopic,"Systems, networking & hardware",2026-01-08,2026-01-13,2026-01-15,8,8.14,0.1481,1.56,5.21,47.0,google/googletest (17); protocolbuffers/protobuf (12); DioxusLabs/dioxus (10),google/googletest
-subtopic,MCP & tool use,2026-01-11,2026-01-15,2026-01-15,5,5.0,0.0926,2.45,2.04,15.0,ChromeDevTools/chrome-devtools-mcp (9); grab/cursor-talk-to-figma-mcp (6),ChromeDevTools/chrome-devtools-mcp
-subtopic,ML research & training,2026-01-16,2026-01-17,2026-01-20,5,3.86,0.0716,0.73,5.3,19.0,ultralytics/ultralytics (10); blakeblackshear/frigate (9),ultralytics/ultralytics
-subtopic,"CLI, editors & dev workflow",2026-01-17,2026-01-19,2026-01-23,7,4.86,0.0942,1.89,2.58,24.0,Gentleman-Programming/Gentleman.Dots (9); yt-dlp/yt-dlp (9); lukasz-madon/awesome-remote-job (6),Gentleman-Programming/Gentleman.Dots
-subtopic,Frontend & UI,2026-01-18,2026-01-27,2026-01-31,14,7.71,0.1452,1.14,6.75,62.0,remotion-dev/remotion (44); tambo-ai/tambo (10); puckeditor/puck (8),remotion-dev/remotion
-subtopic,Generative media,2026-01-20,2026-01-28,2026-02-01,13,4.71,0.0897,1.16,4.06,43.0,Blaizzy/mlx-audio (33); OpenBMB/VoxCPM (10),Blaizzy/mlx-audio
-subtopic,LLMs & inference,2026-01-20,2026-01-24,2026-01-27,8,8.57,0.1681,3.26,2.63,46.0,google/langextract (17); xai-org/grok-1 (14); deepseek-ai/FlashMLA (8),google/langextract
-subtopic,MCP & tool use,2026-01-25,2026-01-31,2026-01-31,7,5.71,0.1078,2.45,2.33,40.0,modelcontextprotocol/ext-apps (19); OpenBMB/UltraRAG (14); browser-use/browser-use (7),modelcontextprotocol/ext-apps
-subtopic,RAG & knowledge,2026-01-25,2026-01-27,2026-02-01,8,4.57,0.086,1.22,3.74,34.0,VectifyAI/PageIndex (27); PaddlePaddle/PaddleOCR (7),VectifyAI/PageIndex
-subtopic,Agents & orchestration,2026-02-01,2026-02-03,2026-02-08,8,20.0,0.3733,9.81,2.04,130.0,ThePrimeagen/99 (28); bytedance/UI-TARS-desktop (19); pedramamini/Maestro (19),ThePrimeagen/99
-subtopic,Offensive security,2026-02-08,2026-02-11,2026-02-15,8,7.43,0.1361,1.05,7.08,42.0,KeygraphHQ/shannon (38); aquasecurity/trivy (4),KeygraphHQ/shannon
-subtopic,LLMs & inference,2026-02-12,2026-02-14,2026-02-19,8,7.57,0.1398,3.26,2.32,53.0,p-e-w/heretic (19); google/langextract (18); cheahjs/free-llm-api-resources (8),p-e-w/heretic
-subtopic,"Systems, networking & hardware",2026-02-14,2026-02-15,2026-02-20,7,5.29,0.0976,1.56,3.38,30.0,SynkraAI/aios-core (29); ruby/ruby (1),SynkraAI/aios-core
-subtopic,"Infra, cloud & self-hosting",2026-02-15,2026-02-18,2026-02-21,7,6.29,0.1161,1.64,3.83,27.0,seerr-team/seerr (11); minio/minio (7); ruvnet/wifi-densepose (7),seerr-team/seerr
-subtopic,"CLI, editors & dev workflow",2026-02-18,2026-02-22,2026-03-01,12,8.14,0.1492,1.89,4.32,66.0,abhigyanpatwari/GitNexus (27); HailToDodongo/pyrite64 (17); tukaani-project/xz (7),abhigyanpatwari/GitNexus
-subtopic,RAG & knowledge,2026-02-18,2026-02-19,2026-02-24,7,6.0,0.1091,1.22,4.91,23.0,alibaba/zvec (16); NirDiamant/RAG_Techniques (6); VectifyAI/PageIndex (1),alibaba/zvec
-subtopic,Agents & orchestration,2026-02-24,2026-02-26,2026-03-01,6,17.57,0.3228,9.81,1.79,79.0,huggingface/skills (34); OpenBB-finance/OpenBB (16); datawhalechina/hello-agents (9),huggingface/skills
-subtopic,Agent skills & prompts,2026-02-27,2026-03-02,2026-03-05,7,18.43,0.3351,9.94,1.85,97.0,bytedance/deer-flow (26); K-Dense-AI/claude-scientific-skills (23); obra/superpowers (15),bytedance/deer-flow
-subtopic,"Infra, cloud & self-hosting",2026-03-02,2026-03-04,2026-03-08,7,7.0,0.1276,1.64,4.27,29.0,ruvnet/wifi-densepose (19); ruvnet/RuView (10),ruvnet/wifi-densepose
-subtopic,LLMs & inference,2026-03-04,2026-03-13,2026-03-17,14,9.14,0.1667,3.26,2.81,106.0,GoogleCloudPlatform/generative-ai (33); moeru-ai/airi (25); microsoft/BitNet (20),GoogleCloudPlatform/generative-ai
-subtopic,Offensive security,2026-03-06,2026-03-06,2026-03-11,6,5.0,0.0911,1.05,4.77,15.0,KeygraphHQ/shannon (8); aquasecurity/trivy (7),KeygraphHQ/shannon
-subtopic,Agents & orchestration,2026-03-09,2026-03-12,2026-03-17,9,21.86,0.3984,9.81,2.23,155.0,666ghj/MiroFish (50); msitarzewski/agency-agents (31); NousResearch/hermes-agent (19),666ghj/MiroFish
-subtopic,RAG & knowledge,2026-03-14,2026-03-15,2026-03-26,13,4.14,0.0755,1.22,3.39,39.0,opendataloader-project/opendataloader-pdf (23); langflow-ai/openrag (15); HKUDS/LightRAG (1),opendataloader-project/opendataloader-pdf
-subtopic,Backend & web platforms,2026-03-16,2026-03-17,2026-03-20,5,4.0,0.0729,0.4,10.09,15.0,lightpanda-io/browser (15),lightpanda-io/browser
-subtopic,"Courses, books & guides",2026-03-17,2026-03-22,2026-03-28,12,4.71,0.0909,1.54,3.06,45.0,Crosstalk-Solutions/project-nomad (36); codecrafters-io/build-your-own-x (9),Crosstalk-Solutions/project-nomad
-subtopic,"CLI, editors & dev workflow",2026-03-20,2026-03-24,2026-03-29,10,6.29,0.1212,1.89,3.33,44.0,FujiwaraChoki/MoneyPrinterV2 (39); mobile-dev-inc/Maestro (5),FujiwaraChoki/MoneyPrinterV2
-subtopic,"Media, music & creative",2026-03-29,2026-03-31,2026-04-03,6,5.29,0.0966,1.31,4.03,21.0,hacksider/Deep-Live-Cam (21),hacksider/Deep-Live-Cam
-subtopic,Other AI apps,2026-03-29,2026-04-21,2026-04-26,29,9.0,0.1636,1.42,6.32,155.0,google-ai-edge/gallery (37); microsoft/VibeVoice (37); thunderbird/thunderbolt (36),google-ai-edge/gallery
+topic,Media & entertainment,2026-08-19,2026-08-22,2026-08-25,7,6.29,0.1161,1.43,4.39,34.0,harry0703/MoneyPrinterTurbo (31); agalwood/Motrix (3),harry0703/MoneyPrinterTurbo
+topic,Media & entertainment,2026-08-30,2026-08-30,2026-09-03,5,3.71,0.0675,1.43,2.59,9.0,bilawalsidhu/gods-eye-view (9),bilawalsidhu/gods-eye-view
+topic,Web & apps,2026-09-01,2026-09-02,2026-09-05,5,6.71,0.1221,3.0,2.24,21.0,iv-org/invidious (7); k1tbyte/Wand-Enhancer (7); majd/ipatool (6),iv-org/invidious
+topic,AI & ML,2026-09-07,2026-09-10,2026-09-11,5,45.57,0.8286,38.32,1.19,211.0,ayghri/i-have-adhd (30); cathrynlavery/diagram-design (25); affaan-m/ECC (22),ayghri/i-have-adhd
+topic,Media & entertainment,2026-09-12,2026-09-14,2026-09-19,8,6.86,0.1247,1.43,4.79,38.0,bilawalsidhu/gods-eye-view (27); Flowseal/zapret-discord-youtube (6); armory3d/armorpaint (5),bilawalsidhu/gods-eye-view
+topic,Finance & commerce,2026-09-22,2026-09-25,2026-09-29,8,7.57,0.1387,0.84,9.03,41.0,anthropics/financial-services (29); Open-Dev-Society/OpenStock (12),anthropics/financial-services
+topic,AI & ML,2026-10-02,2026-10-05,2026-10-07,6,45.71,0.8377,38.32,1.19,259.0,DietrichGebert/ponytail (34); pbakaus/impeccable (30); Panniantong/Agent-Reach (25),DietrichGebert/ponytail
+topic,Web & apps,2026-10-06,2026-10-11,2026-10-15,10,12.14,0.2214,3.0,4.05,87.0,boykopovar/AnyPS5 (58); tester-army/e2e (20); flutter/flutter (4),boykopovar/AnyPS5
+topic,Media & entertainment,2026-10-12,2026-10-14,2026-10-19,8,7.86,0.1451,1.43,5.48,42.0,bilawalsidhu/gods-eye-view (24); storytold/artcraft (18),bilawalsidhu/gods-eye-view
+topic,AI & ML,2026-10-18,2026-10-31,2026-11-06,20,53.0,0.9636,38.32,1.38,959.0,thedotmack/claude-mem (59); cloudflare/security-audit-skill (47); pbakaus/impeccable (47),thedotmack/claude-mem
+topic,Web & apps,2026-10-24,2026-10-24,2026-10-29,6,6.14,0.1129,3.0,2.05,19.0,Renhuai123/ziwei-doushu (10); php/php-src (9),Renhuai123/ziwei-doushu
+topic,Media & entertainment,2026-11-05,2026-11-05,2026-11-09,5,3.29,0.0597,1.43,2.29,9.0,floci-io/floci (7); harry0703/MoneyPrinterTurbo (2),floci-io/floci
+topic,AI & ML,2026-11-17,2026-11-21,2026-11-24,8,49.43,0.8987,38.32,1.29,389.0,elementalsouls/Claude-BugHunter (66); HKUDS/CLI-Anything (49); obra/superpowers (47),elementalsouls/Claude-BugHunter
+subtopic,"Media, music & creative",2026-01-01,2026-01-01,2026-01-06,6,10.0,0.1818,1.31,7.65,19.0,afkarxyz/SpotiFLAC (16); nukeop/nuclear (3),afkarxyz/SpotiFLAC
+subtopic,"Infra, cloud & self-hosting",2026-01-02,2026-01-06,2026-01-16,15,6.33,0.1166,1.65,3.84,65.0,usememos/memos (38); xpipe-io/xpipe (8); dev-sec/ansible-collection-hardening (8),usememos/memos
+subtopic,Mobile & desktop apps,2026-01-02,2026-01-03,2026-01-11,10,8.33,0.1524,1.46,5.69,52.0,HQarroum/docker-android (28); microsoft/PowerToys (15); organicmaps/organicmaps (7),HQarroum/docker-android
+subtopic,Productivity & communication,2026-01-04,2026-01-06,2026-01-09,6,4.5,0.0828,0.56,8.07,20.0,ourongxing/newsnow (20),ourongxing/newsnow
+subtopic,"Systems, networking & hardware",2026-01-08,2026-01-13,2026-01-15,8,8.14,0.1481,1.56,5.22,47.0,google/googletest (17); protocolbuffers/protobuf (12); DioxusLabs/dioxus (10),google/googletest
+subtopic,MCP & tool use,2026-01-11,2026-01-15,2026-01-15,5,5.0,0.0926,2.44,2.05,15.0,ChromeDevTools/chrome-devtools-mcp (9); grab/cursor-talk-to-figma-mcp (6),ChromeDevTools/chrome-devtools-mcp
+subtopic,ML research & training,2026-01-16,2026-01-17,2026-01-20,5,3.86,0.0716,0.73,5.32,19.0,ultralytics/ultralytics (10); blakeblackshear/frigate (9),ultralytics/ultralytics
+subtopic,"CLI, editors & dev workflow",2026-01-17,2026-01-19,2026-01-23,7,4.86,0.0942,1.88,2.58,24.0,Gentleman-Programming/Gentleman.Dots (9); yt-dlp/yt-dlp (9); lukasz-madon/awesome-remote-job (6),Gentleman-Programming/Gentleman.Dots
+subtopic,Frontend & UI,2026-01-18,2026-01-27,2026-01-31,14,7.71,0.1452,1.14,6.77,62.0,remotion-dev/remotion (44); tambo-ai/tambo (10); puckeditor/puck (8),remotion-dev/remotion
+subtopic,Generative media,2026-01-20,2026-01-28,2026-02-01,13,4.71,0.0897,1.16,4.08,43.0,Blaizzy/mlx-audio (33); OpenBMB/VoxCPM (10),Blaizzy/mlx-audio
+subtopic,LLMs & inference,2026-01-20,2026-01-24,2026-01-27,8,8.57,0.1681,3.27,2.62,46.0,google/langextract (17); xai-org/grok-1 (14); deepseek-ai/FlashMLA (8),google/langextract
+subtopic,MCP & tool use,2026-01-25,2026-01-31,2026-01-31,7,5.71,0.1078,2.44,2.34,40.0,modelcontextprotocol/ext-apps (19); OpenBMB/UltraRAG (14); browser-use/browser-use (7),modelcontextprotocol/ext-apps
+subtopic,RAG & knowledge,2026-01-25,2026-01-27,2026-02-01,8,4.57,0.086,1.22,3.76,34.0,VectifyAI/PageIndex (27); PaddlePaddle/PaddleOCR (7),VectifyAI/PageIndex
+subtopic,Agents & orchestration,2026-02-01,2026-02-03,2026-02-08,8,20.0,0.3733,9.82,2.04,130.0,ThePrimeagen/99 (28); bytedance/UI-TARS-desktop (19); pedramamini/Maestro (19),ThePrimeagen/99
+subtopic,Offensive security,2026-02-08,2026-02-11,2026-02-15,8,7.43,0.1361,1.05,7.1,42.0,KeygraphHQ/shannon (38); aquasecurity/trivy (4),KeygraphHQ/shannon
+subtopic,LLMs & inference,2026-02-12,2026-02-14,2026-02-19,8,7.57,0.1398,3.27,2.32,53.0,p-e-w/heretic (19); google/langextract (18); cheahjs/free-llm-api-resources (8),p-e-w/heretic
+subtopic,"Systems, networking & hardware",2026-02-14,2026-02-15,2026-02-20,7,5.29,0.0976,1.56,3.39,30.0,SynkraAI/aios-core (29); ruby/ruby (1),SynkraAI/aios-core
+subtopic,"Infra, cloud & self-hosting",2026-02-15,2026-02-18,2026-02-21,7,6.29,0.1161,1.65,3.81,27.0,seerr-team/seerr (11); minio/minio (7); ruvnet/wifi-densepose (7),seerr-team/seerr
+subtopic,"CLI, editors & dev workflow",2026-02-18,2026-02-22,2026-03-01,12,8.14,0.1492,1.88,4.33,66.0,abhigyanpatwari/GitNexus (27); HailToDodongo/pyrite64 (17); tukaani-project/xz (7),abhigyanpatwari/GitNexus
+subtopic,RAG & knowledge,2026-02-18,2026-02-19,2026-02-24,7,6.0,0.1091,1.22,4.93,23.0,alibaba/zvec (16); NirDiamant/RAG_Techniques (6); VectifyAI/PageIndex (1),alibaba/zvec
+subtopic,Agents & orchestration,2026-02-24,2026-02-26,2026-03-01,6,17.57,0.3228,9.82,1.79,79.0,huggingface/skills (34); OpenBB-finance/OpenBB (16); datawhalechina/hello-agents (9),huggingface/skills
+subtopic,Agent skills & prompts,2026-02-27,2026-03-02,2026-03-05,7,18.43,0.3351,9.97,1.85,97.0,bytedance/deer-flow (26); K-Dense-AI/claude-scientific-skills (23); obra/superpowers (15),bytedance/deer-flow
+subtopic,"Infra, cloud & self-hosting",2026-03-02,2026-03-04,2026-03-08,7,7.0,0.1276,1.65,4.24,29.0,ruvnet/wifi-densepose (19); ruvnet/RuView (10),ruvnet/wifi-densepose
+subtopic,LLMs & inference,2026-03-04,2026-03-13,2026-03-17,14,9.14,0.1667,3.27,2.8,106.0,GoogleCloudPlatform/generative-ai (33); moeru-ai/airi (25); microsoft/BitNet (20),GoogleCloudPlatform/generative-ai
+subtopic,Offensive security,2026-03-06,2026-03-06,2026-03-11,6,5.0,0.0911,1.05,4.78,15.0,KeygraphHQ/shannon (8); aquasecurity/trivy (7),KeygraphHQ/shannon
+subtopic,Agents & orchestration,2026-03-09,2026-03-12,2026-03-17,9,21.86,0.3984,9.82,2.23,155.0,666ghj/MiroFish (50); msitarzewski/agency-agents (31); NousResearch/hermes-agent (19),666ghj/MiroFish
+subtopic,RAG & knowledge,2026-03-14,2026-03-15,2026-03-26,13,4.14,0.0755,1.22,3.4,39.0,opendataloader-project/opendataloader-pdf (23); langflow-ai/openrag (15); HKUDS/LightRAG (1),opendataloader-project/opendataloader-pdf
+subtopic,Backend & web platforms,2026-03-16,2026-03-17,2026-03-20,5,4.0,0.0729,0.4,10.12,15.0,lightpanda-io/browser (15),lightpanda-io/browser
+subtopic,"Courses, books & guides",2026-03-17,2026-03-22,2026-03-28,12,4.71,0.0909,1.54,3.07,45.0,Crosstalk-Solutions/project-nomad (36); codecrafters-io/build-your-own-x (9),Crosstalk-Solutions/project-nomad
+subtopic,"CLI, editors & dev workflow",2026-03-20,2026-03-24,2026-03-29,10,6.29,0.1212,1.88,3.34,44.0,FujiwaraChoki/MoneyPrinterV2 (39); mobile-dev-inc/Maestro (5),FujiwaraChoki/MoneyPrinterV2
+subtopic,"Media, music & creative",2026-03-29,2026-03-31,2026-04-03,6,5.29,0.0966,1.31,4.04,21.0,hacksider/Deep-Live-Cam (21),hacksider/Deep-Live-Cam
+subtopic,Other AI apps,2026-03-29,2026-04-21,2026-04-26,29,9.0,0.1636,1.42,6.34,155.0,google-ai-edge/gallery (37); microsoft/VibeVoice (37); thunderbird/thunderbolt (36),google-ai-edge/gallery
 subtopic,AI coding tools,2026-04-02,2026-04-05,2026-04-06,5,15.43,0.3095,8.31,1.86,54.0,Yeachan-Heo/oh-my-codex (27); anthropics/claude-code (10); luongnv89/claude-howto (7),Yeachan-Heo/oh-my-codex
-subtopic,Mobile & desktop apps,2026-04-05,2026-04-06,2026-04-09,5,4.57,0.0917,1.47,3.11,15.0,siddharthvaddem/openscreen (15),siddharthvaddem/openscreen
-subtopic,LLMs & inference,2026-04-06,2026-04-09,2026-04-12,7,10.0,0.1977,3.26,3.07,42.0,google-ai-edge/LiteRT-LM (26); Blaizzy/mlx-vlm (9); onyx-dot-app/onyx (6),google-ai-edge/LiteRT-LM
-subtopic,RAG & knowledge,2026-04-11,2026-04-14,2026-04-18,8,6.71,0.1224,1.22,5.5,41.0,microsoft/markitdown (38); opendataloader-project/opendataloader-pdf (3),microsoft/markitdown
-subtopic,Data & databases,2026-04-22,2026-04-23,2026-04-27,6,5.57,0.1016,0.57,9.79,19.0,Fincept-Corporation/FinceptTerminal (19),Fincept-Corporation/FinceptTerminal
-subtopic,"Infra, cloud & self-hosting",2026-04-23,2026-04-24,2026-04-27,5,4.29,0.0781,1.64,2.61,10.0,ruvnet/RuView (10),ruvnet/RuView
-subtopic,MCP & tool use,2026-04-24,2026-04-27,2026-04-30,7,8.43,0.1536,2.45,3.44,36.0,PostHog/posthog (17); zilliztech/claude-context (15); trycua/cua (4),PostHog/posthog
-subtopic,Offensive security,2026-04-25,2026-04-30,2026-05-08,14,7.57,0.1377,1.05,7.22,81.0,soxoj/maigret (33); Z4nzu/hackingtool (25); HunxByts/GhostTrack (15),soxoj/maigret
-subtopic,"CLI, editors & dev workflow",2026-04-29,2026-04-30,2026-05-04,6,5.29,0.0961,1.89,2.8,16.0,abhigyanpatwari/GitNexus (14); openwrt/openwrt (2),abhigyanpatwari/GitNexus
+subtopic,Mobile & desktop apps,2026-04-05,2026-04-06,2026-04-09,5,4.57,0.0917,1.46,3.12,15.0,siddharthvaddem/openscreen (15),siddharthvaddem/openscreen
+subtopic,LLMs & inference,2026-04-06,2026-04-09,2026-04-12,7,10.0,0.1977,3.27,3.06,42.0,google-ai-edge/LiteRT-LM (26); Blaizzy/mlx-vlm (9); onyx-dot-app/onyx (6),google-ai-edge/LiteRT-LM
+subtopic,RAG & knowledge,2026-04-11,2026-04-14,2026-04-18,8,6.71,0.1224,1.22,5.52,41.0,microsoft/markitdown (38); opendataloader-project/opendataloader-pdf (3),microsoft/markitdown
+subtopic,Data & databases,2026-04-22,2026-04-23,2026-04-27,6,5.57,0.1016,0.57,9.82,19.0,Fincept-Corporation/FinceptTerminal (19),Fincept-Corporation/FinceptTerminal
+subtopic,"Infra, cloud & self-hosting",2026-04-23,2026-04-24,2026-04-27,5,4.29,0.0781,1.65,2.6,10.0,ruvnet/RuView (10),ruvnet/RuView
+subtopic,MCP & tool use,2026-04-24,2026-04-27,2026-04-30,7,8.43,0.1536,2.44,3.45,36.0,PostHog/posthog (17); zilliztech/claude-context (15); trycua/cua (4),PostHog/posthog
+subtopic,Offensive security,2026-04-25,2026-04-30,2026-05-08,14,7.57,0.1377,1.05,7.24,81.0,soxoj/maigret (33); Z4nzu/hackingtool (25); HunxByts/GhostTrack (15),soxoj/maigret
+subtopic,"CLI, editors & dev workflow",2026-04-29,2026-04-30,2026-05-04,6,5.29,0.0961,1.88,2.81,16.0,abhigyanpatwari/GitNexus (14); openwrt/openwrt (2),abhigyanpatwari/GitNexus
 subtopic,AI coding tools,2026-05-06,2026-05-09,2026-05-14,9,18.29,0.336,8.31,2.2,122.0,Hmbown/DeepSeek-TUI (37); rohitg00/agentmemory (26); datawhalechina/easy-vibe (16),Hmbown/DeepSeek-TUI
-subtopic,Finance & trading,2026-05-09,2026-05-11,2026-05-16,8,5.86,0.1065,0.84,6.97,34.0,anthropics/financial-services (29); shiyu-coder/Kronos (5),anthropics/financial-services
-subtopic,"Systems, networking & hardware",2026-05-12,2026-05-13,2026-05-17,6,4.86,0.0883,1.56,3.1,18.0,CloakHQ/CloakBrowser (18),CloakHQ/CloakBrowser
-subtopic,Agents & orchestration,2026-05-14,2026-05-20,2026-05-22,9,17.43,0.3194,9.81,1.78,141.0,tinyhumansai/openhuman (72); HKUDS/CLI-Anything (36); influxdata/telegraf (14),tinyhumansai/openhuman
-subtopic,Generative media,2026-05-17,2026-05-19,2026-05-23,7,5.14,0.0942,1.16,4.43,25.0,Anil-matcha/Open-Generative-AI (13); supertone-inc/supertonic (12),Anil-matcha/Open-Generative-AI
-subtopic,"Infra, cloud & self-hosting",2026-05-17,2026-05-19,2026-05-24,8,5.0,0.0916,1.64,3.05,28.0,ruvnet/RuView (16); calcom/cal.diy (8); rmyndharis/OpenWA (4),ruvnet/RuView
-subtopic,Agent skills & prompts,2026-05-20,2026-05-22,2026-06-01,13,16.71,0.3063,9.94,1.68,185.0,affaan-m/ECC (36); multica-ai/andrej-karpathy-skills (29); Leonxlnx/taste-skill (22),affaan-m/ECC
+subtopic,Finance & trading,2026-05-09,2026-05-11,2026-05-16,8,5.86,0.1065,0.84,6.99,34.0,anthropics/financial-services (29); shiyu-coder/Kronos (5),anthropics/financial-services
+subtopic,"Systems, networking & hardware",2026-05-12,2026-05-13,2026-05-17,6,4.86,0.0883,1.56,3.11,18.0,CloakHQ/CloakBrowser (18),CloakHQ/CloakBrowser
+subtopic,Agents & orchestration,2026-05-14,2026-05-20,2026-05-22,9,17.43,0.3194,9.82,1.78,141.0,tinyhumansai/openhuman (72); HKUDS/CLI-Anything (36); influxdata/telegraf (14),tinyhumansai/openhuman
+subtopic,Generative media,2026-05-17,2026-05-19,2026-05-23,7,5.14,0.0942,1.16,4.45,25.0,Anil-matcha/Open-Generative-AI (13); supertone-inc/supertonic (12),Anil-matcha/Open-Generative-AI
+subtopic,"Infra, cloud & self-hosting",2026-05-17,2026-05-19,2026-05-24,8,5.0,0.0916,1.65,3.03,28.0,ruvnet/RuView (16); calcom/cal.diy (8); rmyndharis/OpenWA (4),ruvnet/RuView
+subtopic,Agent skills & prompts,2026-05-20,2026-05-22,2026-06-01,13,16.71,0.3063,9.97,1.68,185.0,affaan-m/ECC (36); multica-ai/andrej-karpathy-skills (29); Leonxlnx/taste-skill (22),affaan-m/ECC
 subtopic,AI coding tools,2026-05-24,2026-05-26,2026-05-31,8,20.86,0.3792,8.31,2.51,133.0,Lum1104/Understand-Anything (49); anthropics/claude-plugins-official (17); colbymchenry/codegraph (16),Lum1104/Understand-Anything
-subtopic,"Courses, books & guides",2026-05-25,2026-05-27,2026-06-01,8,7.29,0.1325,1.54,4.72,35.0,rohitg00/ai-engineering-from-scratch (25); DigitalPlatDev/FreeDomain (8); Crosstalk-Solutions/project-nomad (1),rohitg00/ai-engineering-from-scratch
-subtopic,"Media, music & creative",2026-05-30,2026-06-02,2026-06-06,8,8.0,0.1455,1.31,6.1,36.0,harry0703/MoneyPrinterTurbo (36),harry0703/MoneyPrinterTurbo
-subtopic,RAG & knowledge,2026-05-31,2026-06-05,2026-06-15,16,9.0,0.1636,1.22,7.37,83.0,microsoft/markitdown (44); refactoringhq/tolaria (28); PaddlePaddle/PaddleOCR (8),microsoft/markitdown
-subtopic,MCP & tool use,2026-06-05,2026-06-06,2026-06-09,5,5.57,0.1013,2.45,2.28,19.0,chopratejas/headroom (19),chopratejas/headroom
-subtopic,ML research & training,2026-06-10,2026-06-10,2026-06-14,5,3.43,0.0623,0.73,4.71,15.0,roboflow/supervision (8); opencv/opencv (7),roboflow/supervision
-subtopic,Agent skills & prompts,2026-06-11,2026-06-14,2026-06-15,5,18.0,0.3273,9.94,1.81,83.0,addyosmani/agent-skills (38); obra/superpowers (18); NVIDIA/SkillSpector (11),addyosmani/agent-skills
-subtopic,"Infra, cloud & self-hosting",2026-06-13,2026-06-18,2026-06-23,11,8.14,0.1481,1.64,4.96,57.0,meshery/meshery (23); music-assistant/server (17); teslamate-org/teslamate (17),meshery/meshery
-subtopic,Mobile & desktop apps,2026-06-14,2026-06-18,2026-06-18,5,4.43,0.0805,1.47,3.02,14.0,apple/container (6); krahets/hello-algo (6); microsoft/PowerToys (2),apple/container
-subtopic,Productivity & communication,2026-06-14,2026-06-17,2026-06-22,9,9.0,0.1636,0.56,16.1,57.0,iptv-org/iptv (37); chatwoot/chatwoot (20),iptv-org/iptv
-subtopic,"Courses, books & guides",2026-06-17,2026-06-20,2026-06-23,7,5.71,0.1039,1.54,3.71,24.0,freeCodeCamp/freeCodeCamp (18); aishwaryanr/awesome-generative-ai-guide (6),freeCodeCamp/freeCodeCamp
-subtopic,"Systems, networking & hardware",2026-06-17,2026-06-19,2026-06-23,7,5.86,0.1065,1.56,3.74,31.0,n0-computer/iroh (18); swc-project/swc (9); cypress-io/cypress (4),n0-computer/iroh
-subtopic,MCP & tool use,2026-06-20,2026-06-22,2026-06-26,7,7.0,0.1273,2.45,2.86,38.0,DeusData/codebase-memory-mcp (18); chopratejas/headroom (13); mauriceboe/TREK (7),DeusData/codebase-memory-mcp
-subtopic,ML research & training,2026-06-20,2026-06-21,2026-07-03,14,4.14,0.0753,0.73,5.69,43.0,commaai/openpilot (29); google-research/timesfm (14),commaai/openpilot
-subtopic,"CLI, editors & dev workflow",2026-06-21,2026-06-24,2026-06-29,9,7.43,0.1351,1.89,3.94,51.0,palmier-io/palmier-pro (33); kunchenguid/no-mistakes (7); Stirling-Tools/Stirling-PDF (5),palmier-io/palmier-pro
-subtopic,Frontend & UI,2026-06-22,2026-06-24,2026-06-27,6,5.57,0.1013,1.14,4.88,21.0,penpot/penpot (12); koala73/worldmonitor (9),penpot/penpot
-subtopic,Mobile & desktop apps,2026-06-26,2026-07-01,2026-07-06,11,11.71,0.213,1.47,7.98,69.0,simplex-chat/simplex-chat (40); altic-dev/FluidVoice (17); apple/container (6),simplex-chat/simplex-chat
-subtopic,"Infra, cloud & self-hosting",2026-06-28,2026-07-01,2026-07-14,17,5.57,0.1013,1.64,3.4,69.0,ruvnet/RuView (22); ripienaar/free-for-dev (21); rommapp/romm (9),ruvnet/RuView
-subtopic,MCP & tool use,2026-07-02,2026-07-05,2026-07-07,6,5.71,0.1039,2.45,2.33,23.0,ChromeDevTools/chrome-devtools-mcp (15); diegosouzapw/OmniRoute (5); browser-use/video-use (3),ChromeDevTools/chrome-devtools-mcp
-subtopic,Offensive security,2026-07-02,2026-07-06,2026-07-09,8,7.43,0.1351,1.05,7.08,37.0,usestrix/strix (37),usestrix/strix
-subtopic,"Media, music & creative",2026-07-03,2026-07-03,2026-07-07,5,3.43,0.0623,1.31,2.61,7.0,hasaneyldrm/exercises-dataset (7),hasaneyldrm/exercises-dataset
-subtopic,Generative media,2026-07-07,2026-07-08,2026-07-12,6,4.57,0.0831,1.16,3.94,17.0,Zackriya-Solutions/meetily (17),Zackriya-Solutions/meetily
-subtopic,Agent skills & prompts,2026-07-09,2026-07-12,2026-07-18,10,19.0,0.3455,9.94,1.91,148.0,Nutlope/hallmark (36); Shubhamsaboo/awesome-llm-apps (27); addyosmani/agent-skills (24),Nutlope/hallmark
-subtopic,"Systems, networking & hardware",2026-07-12,2026-07-12,2026-07-17,6,4.43,0.0805,1.56,2.83,16.0,abseil/abseil-cpp (9); zeux/meshoptimizer (5); chriskohlhoff/asio (2),abseil/abseil-cpp
-subtopic,"CLI, editors & dev workflow",2026-07-14,2026-07-16,2026-07-21,8,7.14,0.1299,1.89,3.79,37.0,OpenCut-app/OpenCut (35); github/spec-kit (2),OpenCut-app/OpenCut
-subtopic,"Courses, books & guides",2026-07-18,2026-07-21,2026-07-24,7,5.86,0.1065,1.54,3.8,39.0,rohitg00/ai-engineering-from-scratch (20); codecrafters-io/build-your-own-x (11); HenryNdubuaku/maths-cs-ai-compendium (8),rohitg00/ai-engineering-from-scratch
-subtopic,MCP & tool use,2026-07-18,2026-07-24,2026-08-01,15,11.71,0.213,2.45,4.79,120.0,tirth8205/code-review-graph (34); citrolabs/ego-lite (26); PostHog/posthog (19),tirth8205/code-review-graph
-subtopic,LLMs & inference,2026-07-19,2026-07-20,2026-07-23,5,6.43,0.1169,3.26,1.97,28.0,kvcache-ai/ktransformers (13); Robbyant/lingbot-map (12); lyogavin/airllm (3),kvcache-ai/ktransformers
-subtopic,Frontend & UI,2026-07-23,2026-07-25,2026-07-29,7,6.43,0.1169,1.14,5.63,28.0,koala73/worldmonitor (28),koala73/worldmonitor
-subtopic,"Courses, books & guides",2026-08-01,2026-08-06,2026-08-11,11,14.0,0.2545,1.54,9.08,92.0,microsoft/AI-For-Beginners (31); microsoft/generative-ai-for-beginners (18); paperswithbacktest/awesome-systematic-trading (16),microsoft/AI-For-Beginners
-subtopic,"Systems, networking & hardware",2026-08-06,2026-08-09,2026-08-11,6,4.14,0.0753,1.56,2.65,14.0,LadybirdBrowser/ladybird (6); firecrawl/pdf-inspector (6); danielmiessler/LifeOS (2),LadybirdBrowser/ladybird
-subtopic,Agent skills & prompts,2026-08-07,2026-08-10,2026-08-12,6,18.86,0.3429,9.94,1.9,95.0,addyosmani/agent-skills (46); mattpocock/skills (20); TencentCloud/TencentDB-Agent-Memory (10),addyosmani/agent-skills
-subtopic,Other AI apps,2026-08-12,2026-08-14,2026-08-18,7,5.71,0.1039,1.42,4.01,26.0,semantica-agi/semantica (26),semantica-agi/semantica
-subtopic,"Systems, networking & hardware",2026-08-17,2026-08-22,2026-08-27,11,6.14,0.1135,1.56,3.93,44.0,AprilNEA/OpenLogi (26); cordiverse/cordis (11); AlexsJones/llmfit (5),AprilNEA/OpenLogi
-subtopic,"Media, music & creative",2026-08-19,2026-08-22,2026-08-25,7,6.29,0.1161,1.31,4.79,34.0,harry0703/MoneyPrinterTurbo (31); agalwood/Motrix (3),harry0703/MoneyPrinterTurbo
-subtopic,Agent skills & prompts,2026-08-23,2026-09-10,2026-09-24,33,24.29,0.4416,9.94,2.44,552.0,affaan-m/ECC (70); mattpocock/skills (55); tt-a1i/archify (53),affaan-m/ECC
+subtopic,"Courses, books & guides",2026-05-25,2026-05-27,2026-06-01,8,7.29,0.1325,1.54,4.74,35.0,rohitg00/ai-engineering-from-scratch (25); DigitalPlatDev/FreeDomain (8); Crosstalk-Solutions/project-nomad (1),rohitg00/ai-engineering-from-scratch
+subtopic,"Media, music & creative",2026-05-30,2026-06-02,2026-06-06,8,8.0,0.1455,1.31,6.12,36.0,harry0703/MoneyPrinterTurbo (36),harry0703/MoneyPrinterTurbo
+subtopic,RAG & knowledge,2026-05-31,2026-06-05,2026-06-15,16,9.0,0.1636,1.22,7.39,83.0,microsoft/markitdown (44); refactoringhq/tolaria (28); PaddlePaddle/PaddleOCR (8),microsoft/markitdown
+subtopic,MCP & tool use,2026-06-05,2026-06-06,2026-06-09,5,5.57,0.1013,2.44,2.28,19.0,chopratejas/headroom (19),chopratejas/headroom
+subtopic,ML research & training,2026-06-10,2026-06-10,2026-06-14,5,3.43,0.0623,0.73,4.73,15.0,roboflow/supervision (8); opencv/opencv (7),roboflow/supervision
+subtopic,Agent skills & prompts,2026-06-11,2026-06-14,2026-06-15,5,18.0,0.3273,9.97,1.8,83.0,addyosmani/agent-skills (38); obra/superpowers (18); NVIDIA/SkillSpector (11),addyosmani/agent-skills
+subtopic,"Infra, cloud & self-hosting",2026-06-13,2026-06-18,2026-06-23,11,8.14,0.1481,1.65,4.94,57.0,meshery/meshery (23); music-assistant/server (17); teslamate-org/teslamate (17),meshery/meshery
+subtopic,Mobile & desktop apps,2026-06-14,2026-06-18,2026-06-18,5,4.43,0.0805,1.46,3.02,14.0,apple/container (6); krahets/hello-algo (6); microsoft/PowerToys (2),apple/container
+subtopic,Productivity & communication,2026-06-14,2026-06-17,2026-06-22,9,9.0,0.1636,0.56,16.15,57.0,iptv-org/iptv (37); chatwoot/chatwoot (20),iptv-org/iptv
+subtopic,"Courses, books & guides",2026-06-17,2026-06-20,2026-06-23,7,5.71,0.1039,1.54,3.72,24.0,freeCodeCamp/freeCodeCamp (18); aishwaryanr/awesome-generative-ai-guide (6),freeCodeCamp/freeCodeCamp
+subtopic,"Systems, networking & hardware",2026-06-17,2026-06-19,2026-06-23,7,5.86,0.1065,1.56,3.76,31.0,n0-computer/iroh (18); swc-project/swc (9); cypress-io/cypress (4),n0-computer/iroh
+subtopic,MCP & tool use,2026-06-20,2026-06-22,2026-06-26,7,7.0,0.1273,2.44,2.87,38.0,DeusData/codebase-memory-mcp (18); chopratejas/headroom (13); mauriceboe/TREK (7),DeusData/codebase-memory-mcp
+subtopic,ML research & training,2026-06-20,2026-06-21,2026-07-03,14,4.14,0.0753,0.73,5.71,43.0,commaai/openpilot (29); google-research/timesfm (14),commaai/openpilot
+subtopic,"CLI, editors & dev workflow",2026-06-21,2026-06-24,2026-06-29,9,7.43,0.1351,1.88,3.95,51.0,palmier-io/palmier-pro (33); kunchenguid/no-mistakes (7); Stirling-Tools/Stirling-PDF (5),palmier-io/palmier-pro
+subtopic,Frontend & UI,2026-06-22,2026-06-24,2026-06-27,6,5.57,0.1013,1.14,4.89,21.0,penpot/penpot (12); koala73/worldmonitor (9),penpot/penpot
+subtopic,Mobile & desktop apps,2026-06-26,2026-07-01,2026-07-06,11,11.71,0.213,1.46,8.0,69.0,simplex-chat/simplex-chat (40); altic-dev/FluidVoice (17); apple/container (6),simplex-chat/simplex-chat
+subtopic,"Infra, cloud & self-hosting",2026-06-28,2026-07-01,2026-07-14,17,5.57,0.1013,1.65,3.38,69.0,ruvnet/RuView (22); ripienaar/free-for-dev (21); rommapp/romm (9),ruvnet/RuView
+subtopic,MCP & tool use,2026-07-02,2026-07-05,2026-07-07,6,5.71,0.1039,2.44,2.34,23.0,ChromeDevTools/chrome-devtools-mcp (15); diegosouzapw/OmniRoute (5); browser-use/video-use (3),ChromeDevTools/chrome-devtools-mcp
+subtopic,Offensive security,2026-07-02,2026-07-06,2026-07-09,8,7.43,0.1351,1.05,7.1,37.0,usestrix/strix (37),usestrix/strix
+subtopic,"Media, music & creative",2026-07-03,2026-07-03,2026-07-07,5,3.43,0.0623,1.31,2.62,7.0,hasaneyldrm/exercises-dataset (7),hasaneyldrm/exercises-dataset
+subtopic,Generative media,2026-07-07,2026-07-08,2026-07-12,6,4.57,0.0831,1.16,3.95,17.0,Zackriya-Solutions/meetily (17),Zackriya-Solutions/meetily
+subtopic,Agent skills & prompts,2026-07-09,2026-07-12,2026-07-18,10,19.0,0.3455,9.97,1.91,148.0,Nutlope/hallmark (36); Shubhamsaboo/awesome-llm-apps (27); addyosmani/agent-skills (24),Nutlope/hallmark
+subtopic,"Systems, networking & hardware",2026-07-12,2026-07-12,2026-07-17,6,4.43,0.0805,1.56,2.84,16.0,abseil/abseil-cpp (9); zeux/meshoptimizer (5); chriskohlhoff/asio (2),abseil/abseil-cpp
+subtopic,"CLI, editors & dev workflow",2026-07-14,2026-07-16,2026-07-21,8,7.14,0.1299,1.88,3.8,37.0,OpenCut-app/OpenCut (35); github/spec-kit (2),OpenCut-app/OpenCut
+subtopic,"Courses, books & guides",2026-07-18,2026-07-21,2026-07-24,7,5.86,0.1065,1.54,3.81,39.0,rohitg00/ai-engineering-from-scratch (20); codecrafters-io/build-your-own-x (11); HenryNdubuaku/maths-cs-ai-compendium (8),rohitg00/ai-engineering-from-scratch
+subtopic,MCP & tool use,2026-07-18,2026-07-24,2026-08-01,15,11.71,0.213,2.44,4.8,120.0,tirth8205/code-review-graph (34); citrolabs/ego-lite (26); PostHog/posthog (19),tirth8205/code-review-graph
+subtopic,LLMs & inference,2026-07-19,2026-07-20,2026-07-23,5,6.43,0.1169,3.27,1.97,28.0,kvcache-ai/ktransformers (13); Robbyant/lingbot-map (12); lyogavin/airllm (3),kvcache-ai/ktransformers
+subtopic,Frontend & UI,2026-07-23,2026-07-25,2026-07-29,7,6.43,0.1169,1.14,5.64,28.0,koala73/worldmonitor (28),koala73/worldmonitor
+subtopic,"Courses, books & guides",2026-08-01,2026-08-06,2026-08-11,11,14.0,0.2545,1.54,9.11,92.0,microsoft/AI-For-Beginners (31); microsoft/generative-ai-for-beginners (18); paperswithbacktest/awesome-systematic-trading (16),microsoft/AI-For-Beginners
+subtopic,"Systems, networking & hardware",2026-08-06,2026-08-09,2026-08-11,6,4.14,0.0753,1.56,2.66,14.0,LadybirdBrowser/ladybird (6); firecrawl/pdf-inspector (6); danielmiessler/LifeOS (2),LadybirdBrowser/ladybird
+subtopic,Agent skills & prompts,2026-08-07,2026-08-10,2026-08-12,6,18.86,0.3429,9.97,1.89,95.0,addyosmani/agent-skills (46); mattpocock/skills (20); TencentCloud/TencentDB-Agent-Memory (10),addyosmani/agent-skills
+subtopic,Other AI apps,2026-08-12,2026-08-14,2026-08-18,7,5.71,0.1039,1.42,4.03,26.0,semantica-agi/semantica (26),semantica-agi/semantica
+subtopic,"Systems, networking & hardware",2026-08-17,2026-08-22,2026-08-27,11,6.14,0.1135,1.56,3.94,44.0,AprilNEA/OpenLogi (26); cordiverse/cordis (11); AlexsJones/llmfit (5),AprilNEA/OpenLogi
+subtopic,"Media, music & creative",2026-08-19,2026-08-22,2026-08-25,7,6.29,0.1161,1.31,4.81,34.0,harry0703/MoneyPrinterTurbo (31); agalwood/Motrix (3),harry0703/MoneyPrinterTurbo
+subtopic,Agent skills & prompts,2026-08-23,2026-09-10,2026-09-24,33,24.29,0.4416,9.97,2.44,552.0,affaan-m/ECC (70); mattpocock/skills (55); tt-a1i/archify (53),affaan-m/ECC
 subtopic,AI coding tools,2026-08-25,2026-08-29,2026-08-31,7,18.71,0.3403,8.31,2.25,108.0,MadsLorentzen/ai-job-search (22); anthropics/claude-plugins-official (21); Alishahryar1/free-claude-code (17),MadsLorentzen/ai-job-search
-subtopic,Frontend & UI,2026-08-28,2026-09-02,2026-09-06,10,5.43,0.0987,1.14,4.75,39.0,zedeus/nitter (9); Lakr233/vphone-cli (8); iv-org/invidious (7),zedeus/nitter
-subtopic,"Media, music & creative",2026-08-30,2026-08-30,2026-09-03,5,3.71,0.0675,1.31,2.83,9.0,bilawalsidhu/gods-eye-view (9),bilawalsidhu/gods-eye-view
-subtopic,"Systems, networking & hardware",2026-09-04,2026-09-08,2026-09-10,7,5.71,0.1039,1.56,3.65,26.0,fmtlib/fmt (24); BraveOPotato/FckSignups (2),fmtlib/fmt
-subtopic,"CLI, editors & dev workflow",2026-09-10,2026-09-14,2026-09-20,11,5.71,0.1039,1.89,3.03,43.0,ever-co/ever-gauzy (20); Tencent/teamai-cli (15); abue-ammar/tinycast (8),ever-co/ever-gauzy
-subtopic,"Media, music & creative",2026-09-12,2026-09-14,2026-09-19,8,6.86,0.1247,1.31,5.23,38.0,bilawalsidhu/gods-eye-view (27); Flowseal/zapret-discord-youtube (6); armory3d/armorpaint (5),bilawalsidhu/gods-eye-view
-subtopic,LLMs & inference,2026-09-17,2026-09-19,2026-09-21,5,6.43,0.1169,3.26,1.97,16.0,JustVugg/colibri (8); anthropics/knowledge-work-plugins (8),JustVugg/colibri
-subtopic,Finance & trading,2026-09-22,2026-09-25,2026-09-29,8,7.57,0.1387,0.84,9.01,41.0,anthropics/financial-services (29); Open-Dev-Society/OpenStock (12),anthropics/financial-services
-subtopic,Agents & orchestration,2026-09-23,2026-09-28,2026-10-07,15,25.43,0.4672,9.81,2.59,297.0,vectorize-io/hindsight (51); paperclipai/paperclip (46); DietrichGebert/ponytail (40),vectorize-io/hindsight
-subtopic,Generative media,2026-09-30,2026-10-01,2026-10-05,6,5.29,0.0971,1.16,4.56,19.0,debpalash/VoiceStudio (19),debpalash/VoiceStudio
+subtopic,Frontend & UI,2026-08-28,2026-09-02,2026-09-06,10,5.43,0.0987,1.14,4.76,39.0,zedeus/nitter (9); Lakr233/vphone-cli (8); iv-org/invidious (7),zedeus/nitter
+subtopic,"Media, music & creative",2026-08-30,2026-08-30,2026-09-03,5,3.71,0.0675,1.31,2.84,9.0,bilawalsidhu/gods-eye-view (9),bilawalsidhu/gods-eye-view
+subtopic,"Systems, networking & hardware",2026-09-04,2026-09-08,2026-09-10,7,5.71,0.1039,1.56,3.66,26.0,fmtlib/fmt (24); BraveOPotato/FckSignups (2),fmtlib/fmt
+subtopic,"CLI, editors & dev workflow",2026-09-10,2026-09-14,2026-09-20,11,5.71,0.1039,1.88,3.04,43.0,ever-co/ever-gauzy (20); Tencent/teamai-cli (15); abue-ammar/tinycast (8),ever-co/ever-gauzy
+subtopic,"Media, music & creative",2026-09-12,2026-09-14,2026-09-19,8,6.86,0.1247,1.31,5.24,38.0,bilawalsidhu/gods-eye-view (27); Flowseal/zapret-discord-youtube (6); armory3d/armorpaint (5),bilawalsidhu/gods-eye-view
+subtopic,LLMs & inference,2026-09-17,2026-09-19,2026-09-21,5,6.43,0.1169,3.27,1.97,16.0,JustVugg/colibri (8); anthropics/knowledge-work-plugins (8),JustVugg/colibri
+subtopic,Finance & trading,2026-09-22,2026-09-25,2026-09-29,8,7.57,0.1387,0.84,9.03,41.0,anthropics/financial-services (29); Open-Dev-Society/OpenStock (12),anthropics/financial-services
+subtopic,Agents & orchestration,2026-09-23,2026-09-28,2026-10-07,15,25.43,0.4672,9.82,2.59,297.0,vectorize-io/hindsight (51); paperclipai/paperclip (46); DietrichGebert/ponytail (40),vectorize-io/hindsight
+subtopic,Generative media,2026-09-30,2026-10-01,2026-10-05,6,5.29,0.0971,1.16,4.57,19.0,debpalash/VoiceStudio (19),debpalash/VoiceStudio
 subtopic,AI coding tools,2026-10-05,2026-10-07,2026-10-11,7,15.14,0.2753,8.31,1.82,84.0,cathrynlavery/diagram-design (29); thedotmack/claude-mem (23); pbakaus/impeccable (15),cathrynlavery/diagram-design
-subtopic,Mobile & desktop apps,2026-10-06,2026-10-11,2026-10-17,12,12.14,0.2214,1.47,8.27,91.0,boykopovar/AnyPS5 (58); tester-army/e2e (20); flutter/flutter (4),boykopovar/AnyPS5
+subtopic,Mobile & desktop apps,2026-10-06,2026-10-11,2026-10-17,12,12.14,0.2214,1.46,8.29,91.0,boykopovar/AnyPS5 (58); tester-army/e2e (20); flutter/flutter (4),boykopovar/AnyPS5
 subtopic,Other AI apps,2026-10-07,2026-10-07,2026-10-11,5,3.14,0.0571,1.42,2.21,8.0,earthtojake/text-to-cad (8),earthtojake/text-to-cad
-subtopic,"Media, music & creative",2026-10-12,2026-10-14,2026-10-19,8,7.86,0.1451,1.31,5.99,42.0,bilawalsidhu/gods-eye-view (24); storytold/artcraft (18),bilawalsidhu/gods-eye-view
+subtopic,"Media, music & creative",2026-10-12,2026-10-14,2026-10-19,8,7.86,0.1451,1.31,6.01,42.0,bilawalsidhu/gods-eye-view (24); storytold/artcraft (18),bilawalsidhu/gods-eye-view
 subtopic,AI coding tools,2026-10-16,2026-10-21,2026-10-26,11,25.43,0.4623,8.31,3.06,202.0,MadsLorentzen/ai-job-search (39); anthropics/claude-plugins-official (38); stablyai/orca (28),MadsLorentzen/ai-job-search
-subtopic,Generative media,2026-10-16,2026-10-20,2026-10-27,12,4.86,0.0885,1.16,4.19,40.0,Comfy-Org/ComfyUI (18); debpalash/VoiceStudio (18); OpenBMB/VoxCPM (4),Comfy-Org/ComfyUI
-subtopic,Backend & web platforms,2026-10-23,2026-10-24,2026-10-29,7,4.57,0.084,0.4,11.53,28.0,php/php-src (19); supabase/supabase (5); fastapi/fastapi (4),php/php-src
-subtopic,Agent skills & prompts,2026-10-27,2026-10-29,2026-11-01,6,16.43,0.3018,9.94,1.65,89.0,obra/superpowers (27); Nutlope/hallmark (24); mattpocock/skills (12),obra/superpowers
-subtopic,Other AI apps,2026-10-30,2026-11-03,2026-11-03,5,3.57,0.0649,1.42,2.51,6.0,elayadesign/ai-design-skills (4); Usagi-org/ai-goofish-monitor (2),elayadesign/ai-design-skills
+subtopic,Generative media,2026-10-16,2026-10-20,2026-10-27,12,4.86,0.0885,1.16,4.2,40.0,Comfy-Org/ComfyUI (18); debpalash/VoiceStudio (18); OpenBMB/VoxCPM (4),Comfy-Org/ComfyUI
+subtopic,Backend & web platforms,2026-10-23,2026-10-24,2026-10-29,7,4.57,0.084,0.4,11.57,28.0,php/php-src (19); supabase/supabase (5); fastapi/fastapi (4),php/php-src
+subtopic,Agent skills & prompts,2026-10-27,2026-10-29,2026-11-01,6,16.43,0.3018,9.97,1.65,89.0,obra/superpowers (27); Nutlope/hallmark (24); mattpocock/skills (12),obra/superpowers
+subtopic,Other AI apps,2026-10-30,2026-11-03,2026-11-03,5,3.57,0.0649,1.42,2.52,6.0,elayadesign/ai-design-skills (4); Usagi-org/ai-goofish-monitor (2),elayadesign/ai-design-skills
 subtopic,AI coding tools,2026-10-31,2026-11-03,2026-11-06,7,16.14,0.2935,8.31,1.94,100.0,thedotmack/claude-mem (56); pingdotgg/t3code (16); pbakaus/impeccable (12),thedotmack/claude-mem
-subtopic,LLMs & inference,2026-11-03,2026-11-04,2026-11-16,14,7.43,0.1351,3.26,2.28,78.0,anthropics/claude-quickstarts (20); ZhuLinsen/daily_stock_analysis (18); JustVugg/colibri (14),anthropics/claude-quickstarts
-subtopic,MCP & tool use,2026-11-06,2026-11-09,2026-11-16,11,6.43,0.1172,2.45,2.63,55.0,vercel-labs/agent-browser (29); ChromeDevTools/chrome-devtools-mcp (13); homeassistant-ai/ha-mcp (8),vercel-labs/agent-browser
-subtopic,"Systems, networking & hardware",2026-11-10,2026-11-11,2026-11-14,5,4.29,0.0781,1.56,2.74,11.0,sherlock-project/sherlock (10); tokio-rs/topcoat (1),sherlock-project/sherlock
-subtopic,Agents & orchestration,2026-11-16,2026-11-20,2026-11-23,8,19.43,0.3532,9.81,1.98,137.0,HKUDS/CLI-Anything (41); dream-num/univer (24); ag-ui-protocol/ag-ui (20),HKUDS/CLI-Anything
+subtopic,LLMs & inference,2026-11-03,2026-11-04,2026-11-16,14,7.43,0.1351,3.27,2.27,78.0,anthropics/claude-quickstarts (20); ZhuLinsen/daily_stock_analysis (18); JustVugg/colibri (14),anthropics/claude-quickstarts
+subtopic,MCP & tool use,2026-11-06,2026-11-09,2026-11-16,11,6.43,0.1172,2.44,2.63,55.0,vercel-labs/agent-browser (29); ChromeDevTools/chrome-devtools-mcp (13); homeassistant-ai/ha-mcp (8),vercel-labs/agent-browser
+subtopic,"Systems, networking & hardware",2026-11-10,2026-11-11,2026-11-14,5,4.29,0.0781,1.56,2.75,11.0,sherlock-project/sherlock (10); tokio-rs/topcoat (1),sherlock-project/sherlock
+subtopic,Agents & orchestration,2026-11-16,2026-11-20,2026-11-23,8,19.43,0.3532,9.82,1.98,137.0,HKUDS/CLI-Anything (41); dream-num/univer (24); ag-ui-protocol/ag-ui (20),HKUDS/CLI-Anything
+subtopic,Agent skills & prompts,2026-11-20,2026-11-24,2026-11-24,5,20.14,0.3662,9.97,2.02,100.0,elementalsouls/Claude-BugHunter (50); obra/superpowers (45); mvanhorn/last30days-skill (5),elementalsouls/Claude-BugHunter
+subtopic,"Infra, cloud & self-hosting",2026-11-20,2026-11-23,2026-11-24,5,4.71,0.0857,1.65,2.86,20.0,nginx/nginx (20),nginx/nginx
