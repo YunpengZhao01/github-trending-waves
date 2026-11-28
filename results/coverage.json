@@ -1,9 +1,9 @@
 {
   "trendwaves_version": "0.1.0",
   "source": "https://github.com/antonkomarev/github-trending-archive",
-  "generated_at": "2026-11-27T16:43:04+00:00",
+  "generated_at": "2026-11-28T15:34:54+00:00",
   "start": "2026-01-01",
-  "end": "2026-11-26",
+  "end": "2026-11-27",
   "top_n": 10,
   "scoring": "linear",
   "smooth_days": 7,
@@ -11,11 +11,11 @@
   "wave_min_days": 5,
   "momentum_recent_days": 14,
   "momentum_prior_days": 56,
-  "requested_dates": 330,
-  "found_dates": 330,
+  "requested_dates": 331,
+  "found_dates": 331,
   "missing_dates": [],
   "request_errors": {},
-  "ranking_records": 3211,
+  "ranking_records": 3221,
   "unique_repositories": 907,
   "repositories_with_metadata": 902,
   "classification_methods": {
@@ -25,10 +25,10 @@
     "unclassified": 37
   },
   "unclassified_repositories": 37,
-  "unclassified_point_share": 0.0162,
+  "unclassified_point_share": 0.0161,
   "waves_detected": {
     "topic": 44,
-    "subtopic": 110
+    "subtopic": 111
   },
   "caution": "Labels use each repository's current GitHub metadata, not a point-in-time snapshot."
 }
